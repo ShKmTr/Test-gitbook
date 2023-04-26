@@ -1,0 +1,4 @@
+root: Test-gitbook
+structure:
+  summary: summary.md
+  assets: assets
