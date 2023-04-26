@@ -14,7 +14,7 @@ $~~~~~~~~$ [Nois](mainnets/nois/) $~~~~~~~~~~~~~~~~~~~$ [Umee](mainnets/umee/)
 
 $~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/andromeda.png" width="95"> $~~~~~~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/babylon.png" width="80"> $~~~~~~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/defund.png" width="80"> $~~~~~~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/haqq.svg" width="80"> $~~~~~~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/humans.png" width="75"> 
 
-$~~~~~~$ [Andromeda](testnets/andromeda/)$~~~~~~~~~~~~~~~~~~~~~~~~$ [Babylon](testnets/baylon/) $~~~~~~~~~~~~~~~~~~~~~~~~$ [Defund](testnets/defund/) $~~~~~~~~~~~~~~~~~~~~~~~~$ [HAQQ](testnets/haqq/) $~~~~~~~~~~~~~~~~~~~~~~~~$ [Humans](testnets/humans/)
+$~~~~~~$ [Andromeda](testnets/andromeda/)$~~~~~~~~~~~~~~~~~~~~~~~~$ [Babylon](testnets/baylon/) $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ [Defund](testnets/defund/) $~~~~~~~~~~~~~~~~~~~~~~~~~~$ [HAQQ](testnets/haqq/) $~~~~~~~~~~~~~~~~~~~~~~~~~~$ [Humans](testnets/humans/)
 
 <p>&nbsp;</p>
 
