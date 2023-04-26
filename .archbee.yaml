@@ -1,4 +1,4 @@
-root: Test-gitbook
+root: ./
 structure:
   summary: summary.md
   assets: assets
