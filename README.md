@@ -12,7 +12,7 @@ $~~~~~~~~$ [Nois](mainnets/nois/) $~~~~~~~~~~~~~~~~~~~~~~~~$ [Umee](mainnets/ume
 
 <p>&nbsp;</p>
 
-<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/andromeda.png" width="90"> $~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/babylon.png" width="80"> $~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/defund.png" width="80"> $~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/haqq.svg" width="80"> $~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/humans.png" width="75"> 
+<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/andromeda.png" width="95"> $~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/babylon.png" width="80"> $~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/defund.png" width="80"> $~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/haqq.svg" width="80"> $~~~~~~~~~~~~~~~$ <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/humans.png" width="75"> 
 
 &nbsp; [Andromeda](testnets/andromeda/) &emsp; &emsp; &emsp; &emsp; &nbsp; [Babylon](testnets/baylon/) &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; [Defund](testnets/defund/) &emsp; &emsp; &emsp; &emsp;  &emsp; &nbsp; [HAQQ](testnets/haqq/) &emsp; &emsp; &emsp; &emsp; &emsp; [Humans](testnets/humans/)
 
